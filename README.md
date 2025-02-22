@@ -3,10 +3,7 @@
 - 🔭 Atualmente trabalhando num projeto facultativo back-end
 - 🌱 Estudando programação
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoRibeiro007&show_icons=true&theme=dark" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRibeiro007&layout=compact&theme=dark" alt="Top Languages" height="200">
-</div>
-
+![GustavoRibeiro007's Stats](https://github-readme-stats.vercel.app/api?username=GustavoRibeiro007&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
+![GustavoRibeiro007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRibeiro007&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
 
 
