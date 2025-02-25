@@ -6,7 +6,7 @@
   ![GustavoRibeiro007's Stats](https://github-readme-stats.vercel.app/api?username=GustavoRibeiro007&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
   ![GustavoRibeiro007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRibeiro007&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
 
-## Linguagens Usadas:
+## Linguagens que uso:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
