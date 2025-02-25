@@ -15,3 +15,5 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-%234F5B93?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+
+![Contribuições](https://raw.githubusercontent.com/username/repository-name/main/path/to/snake-animation.gif)
